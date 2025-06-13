@@ -13,3 +13,6 @@ Day 12 task of the Data Analyst Internship
 - **Donut Chart** – Sales by category
 - **Cards** – KPIs: Total Sales, Profit, Quantity
 - **Slicers** – Filter by Region and Category
+
+## Tools used
+- PowerBI
