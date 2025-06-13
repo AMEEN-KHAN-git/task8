@@ -1,0 +1,26 @@
+1. Sales show a strong upward trend in number of quantity sold as well as profit during Q4 of each year, indicating peak seasonal demand.
+2. The West region consistently leads in total sales, followed close by the East.
+3. Among product categories, Technology has the highest sales, while Office Supplies lags behind.
+4. Slicers enable dynamic filtering — selecting a region updates all charts instantly, improving data exploration.
+
+Report Region by Region
+1.Central region has higher quantities of office supplies sold, while more sales and profit is seen in technology category.
+2.East region also follows the same trend as Central, where quantity wise office supplies lead, but technology leads in the sales and profit.
+3.South region shows promise in office supplies as opposed to general trend, where we can see not just higher quantity sold, but also same profit as technology category with lesser sales in comparison.
+4.West region has a different demographic than the total trend, here the office supplies show more quantity sold and profit even though having less sales than technology.
+
+Regional Summary: Central and East regions have much better profit margins for technology while South and West have it in office supplies while furniture is on average at all places.
+
+Report per category
+1.Office Supplies: 31.3% of total share of sales, West leads in sales closely followed by East, Sales often leading in the last quarter,
+$719.05K sales, $122.49K profit and 6.026K units sold
+
+2.Furniture: 32.3% of total share of sales, West leads in sales by a margin, Sales often leading in the last quarter,
+$742.00K sales, $18.45K profit and 2.121K units sold
+
+3.Technology:36.4% of total share of sales, East leads in sales closely followed by West, Sales fluctuating with often first quarter in leads, $836.15K sales, $145.45K profit and 1.847K units sold
+
+Categorical Summary: Technology leads the total share in sales(seen in percentage and amounts) and profit, while office supplies leads in units sold.
+
+
+
